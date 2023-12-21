@@ -1,0 +1,19 @@
+#test {
+border: 2px;
+border-style: solid;
+border-color: brown;
+width: 500px;
+height: 600px;
+align-items: right;
+margin-top: 100px;
+margin: auto;
+padding: 10px;
+
+}
+h2{
+    text-align: center;
+    color:white;
+}
+.input{
+    height: 100px;
+}
